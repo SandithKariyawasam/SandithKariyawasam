@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png" alt="scar1109" /> </p>
+
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Sandith Kariyawasam</h1>
 <h3 align="center">SE Student at NSBM Green University</h3>
