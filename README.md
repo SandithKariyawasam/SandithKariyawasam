@@ -5,6 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 <img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 - 🔭 I’m currently working on **Shopping Website**
 
 - 🌱 I’m currently learning **Node js**
@@ -14,7 +18,17 @@
 - 💬 Ask me about **html,css & javascript**
 
 - 📫 How to reach me **sandithkariyawasam2001@gmail.com**
+<br></br>
 
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+
+  </td>
+</tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sandith kariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandith kariyawasam" height="30" width="40" /></a>
