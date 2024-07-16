@@ -2,8 +2,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Sandith Kariyawasam</h1>
 <h3 align="center">SE Student at NSBM Green University</h3>
-<p align="left"> <img src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1380&t=st=1688408447~exp=1688409047~hmac=3d5540fe273fce4fd6f772261d7802f380cc82c453d2d6eab532e561f325a16b" alt="scar1109" /> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 <img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
