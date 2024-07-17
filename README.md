@@ -28,8 +28,11 @@
   </td>
 </tr>
 <tr border="none">
+  <td colspan="2">
 <h3 align="left">Connect with me:</h3>
+  </td>
 </tr>
+</table>
 <p align="left">
 <a href="https://fb.com/sandith kariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandith kariyawasam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/byrexwild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="byrexwild" height="30" width="40" /></a>
