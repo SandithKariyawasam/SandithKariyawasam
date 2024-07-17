@@ -34,7 +34,7 @@
 </tr>
 <tr>
   <td colspan="2">
-<p align="center">
+<p>
 
 <a href="https://www.youtube.com/c/byrexwild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="byrexwild" height="50" width="50" /></a>
 
