@@ -8,11 +8,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **Shopping Website**
+- 🔭 I’m currently working on **Auction Website**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [sandithkariyawasam.000webhostapp.com](sandithkariyawasam.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-blush-kappa.vercel.app/](https://portfolio-website-blush-kappa.vercel.app/)
 
 - 💬 Ask me about **html,css & javascript**
 
