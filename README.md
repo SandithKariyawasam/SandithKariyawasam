@@ -29,6 +29,8 @@
 </tr>
 </table>
 
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="" height="50" width="50" /></a>
@@ -38,6 +40,7 @@
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="" height="50" width="50" /></a>
 </p>
 
+---
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
