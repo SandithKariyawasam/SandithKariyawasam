@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Vehicle Auction Website**
 
-- 🌱 I’m currently learning **React js & C#**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://sandith-kariyawasam-portfolio.vercel.app/](https://sandith-kariyawasam-portfolio.vercel.app/)
 
