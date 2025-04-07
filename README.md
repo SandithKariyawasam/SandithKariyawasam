@@ -8,9 +8,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Mobile app & chat web app**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js & flutter**
 
 - 👨‍💻 All of my projects are available at [.......](.....)
 
